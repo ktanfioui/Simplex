@@ -1,0 +1,30 @@
+/*style*/
+:invalid
+{
+	background-color: red;
+}
+
+body{
+	background-image:url(wallpaper.jpg);
+	
+	color : white;
+}
+
+/* bouton essayer en rouge
+#essayer{
+	color : red;
+
+}
+*/
+
+.MyTab
+{
+   background-color:#FFFFE0;
+   border-collapse:collapse;
+   color:#000;
+   font-size:18px;
+}
+
+
+.MyTab th { background-color:#BDB76B;color:white;width:50%; }
+
